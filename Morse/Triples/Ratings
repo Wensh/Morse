@@ -1,0 +1,32 @@
+<http://data.linkedmdb.org/film/2592> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/37919> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+
+//Science fiction
+<http://data.linkedmdb.org/film/9269> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/9311> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/9377> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/9380> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/9393> <http://data.morse.org/userid/wzg600/rating> "5"^^xsd:integer.
+<http://data.linkedmdb.org/film/9722> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/9800> <http://data.morse.org/userid/wzg600/rating> "2"^^xsd:integer.
+<http://data.linkedmdb.org/film/9976> <http://data.morse.org/userid/wzg600/rating> "5"^^xsd:integer.
+<http://data.linkedmdb.org/film/9987> <http://data.morse.org/userid/wzg600/rating> "2"^^xsd:integer.
+<http://data.linkedmdb.org/film/10181> <http://data.morse.org/userid/wzg600/rating> "3"^^xsd:integer.
+<http://data.linkedmdb.org/film/10456> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/16373> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/16999> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/17613> <http://data.morse.org/userid/wzg600/rating> "2"^^xsd:integer.
+<http://data.linkedmdb.org/film/18460> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/18507> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/18532> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/18648> <http://data.morse.org/userid/wzg600/rating> "4"^^xsd:integer.
+<http://data.linkedmdb.org/film/18762> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+<http://data.linkedmdb.org/film/33828> <http://data.morse.org/userid/wzg600/rating> "1"^^xsd:integer.
+
+//Tom Cruise
+<http://data.linkedmdb.org/film/6224> <http://data.morse.org/userid/wzg600/rating> "5"^^xsd:integer.
+<http://data.linkedmdb.org/film/26393> <http://data.morse.org/userid/wzg600/rating> "5"^^xsd:integer.
+<http://data.linkedmdb.org/film/31198> <http://data.morse.org/userid/wzg600/rating> "5"^^xsd:integer.
+<http://data.linkedmdb.org/film/479> <http://data.morse.org/userid/wzg600/rating> "5"^^xsd:integer.
+<http://data.linkedmdb.org/film/16197> <http://data.morse.org/userid/wzg600/rating> "5"^^xsd:integer.
+<http://data.linkedmdb.org/film/333> <http://data.morse.org/userid/wzg600/rating> "5"^^xsd:integer.

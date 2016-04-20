@@ -1,0 +1,46 @@
+.index-jumbotron {
+    
+    background-color:rgba(255,255,255,0);
+    
+}
+
+body {
+    color:#eff;
+    background-color: 000;
+    background: #000 url("../Morse-banner.jpg") no-repeat right top !important;
+    background-size: 100% !important;
+}
+
+footer > p {
+    
+    color: #fff;
+}
+
+
+.drop-down {
+    color: #000;
+}
+
+.movie-info-container{
+    margin-top: 10px;
+    border: 2px solid #ddd;
+    background-color:rgba(255,255,255,0.6);
+    box-shadow: 3px 3px 10px #888888;
+    border-radius: 5px;
+    margin-left:10vw;
+    margin-right:10vw;
+    color:black;
+    display:none;
+}
+
+button{
+  
+  margin-top:5px;
+  
+  
+}
+
+img {
+  
+  width:250px;
+}
